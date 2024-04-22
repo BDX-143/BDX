@@ -20,5 +20,5 @@ class Subscription:
             ____Main___()
 
 if __name__ == "__main__":
-    subscription = ____Main___()
+    subscription = Subscription()
     ____Main___.run()
