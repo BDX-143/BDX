@@ -21,4 +21,4 @@ class Subscription:
 
 if __name__ == "__main__":
     subscription = Subscription()
-    ____Main___.run()
+    Subscription().run()
